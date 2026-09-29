@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# 빌드 산출물
+x64/
+[Dd]ebug/
+[Rr]elease/
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.iobj
+*.ipdb
+
+# 실행 로그
+*.log
+
+# 원본 스타터 압축 파일
+*.zip
